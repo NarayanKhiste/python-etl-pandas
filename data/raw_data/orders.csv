@@ -1,0 +1,6 @@
+order_id,order_date,customer_id,customer_name,product,category,price,quantity,region,payment_method
+1001,2024-01-05,C001,Rahul Sharma,Laptop,Electronics,55000,1,South,UPI
+1002,2024-01-06,C002,Anita Verma,Mobile,Electronics,25000,2,North,Credit Card
+1003,2024-01-06,C003,Amit Patel,Chair,Furniture,4500,4,West,Debit Card
+1004,2024-01-07,C001,Rahul Sharma,Mouse,Electronics,800,3,South,UPI
+1005,2024-01-08,C004,Neha Singh,Table,Furniture,8500,1,East,Net Banking

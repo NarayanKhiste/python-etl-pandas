@@ -1,0 +1,19 @@
+before starting a my project i did following  setup for necessary dependencies
+
+ 1.python extension
+ 2.Pylance (optional)
+ 3.Jupyter
+ 4.Virtual Environment
+    Inside your project folder: in terminal run below command
+        "python -m venv venv"
+    You need to activat venv use following command in terminal to activate
+        "venv\Scripts\activate"
+    Now u will able to see your project path in terminal start with (venv)
+5.Select Correct Python Interpreter in VS Code
+    VERY IMPORTANT 🚨
+    Press Ctrl + Shift + P
+    Select Python: Select Interpreter
+    Choose:(.\venv\Scripts\python.exe) recommended
+6.install necessary librabries(pandas, pyspark)
+
+
