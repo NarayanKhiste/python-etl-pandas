@@ -15,5 +15,6 @@ before starting a my project i did following  setup for necessary dependencies
     Select Python: Select Interpreter
     Choose:(.\venv\Scripts\python.exe) recommended
 6.install necessary librabries(pandas, pyspark)
+7.write the code in notebook
 
 
